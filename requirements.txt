@@ -1,0 +1,12 @@
+os
+ctypes
+pynput.keyboard
+smtplib
+threading
+email.mime.text
+email.mime.multipart
+email.header
+time
+winreg
+psutil
+subprocess
